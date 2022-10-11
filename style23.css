@@ -1,0 +1,9 @@
+div > p {
+    background-color: yellow;
+}
+div + h3{
+    background-color: red;
+}
+div ~ h4{
+    background-color: blue;
+}
